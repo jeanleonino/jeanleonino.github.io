@@ -1,6 +1,6 @@
 name: Jean Lucas
 description: Developer, nomad, brazilian
-meta_description: "Your New Jekyll Site, Blogging about stuffs"
+meta_description: "Jean Lucas - jeanleonino - Brazilian nomad and developer"
 
 aboutPage: true
 
@@ -20,6 +20,8 @@ author:         'Jean Lucas'
 authorTwitter:  'aleattorium'
 
 permalink:       /:year/:title/
+
+gems: [jekyll-paginate]
 
 defaults:
     -
