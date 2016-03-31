@@ -24,8 +24,6 @@ and point it to a `<canvas>` element:
 <canvas class="sketchpad" id="sketchpad"><canvas>
 {% endhighlight %}
 
-You can check it in action [here][yiom].
-
 Nice things about it:
 
 - Uses SVG :)
@@ -34,7 +32,10 @@ Nice things about it:
 - You can "animate"
 - Use any color you want
 
-Our plans for the future: wrap as Ember.js component, React, and what else the community ask us to do.
+---
+
+You can check it in action [here][yiom]. Our plans for the future: wrap as Ember.js component, React, and what else the
+community ask us to do.
 
 Did you like? Give us a star on [Github][sketchpad].
 

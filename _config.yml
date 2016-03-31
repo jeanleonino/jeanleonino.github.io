@@ -5,7 +5,7 @@ meta_description: "Jean Lucas - jeanleonino - Brazilian developer"
 aboutPage: true
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
