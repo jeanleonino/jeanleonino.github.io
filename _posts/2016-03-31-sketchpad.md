@@ -11,7 +11,7 @@ born.
 
 It is a simple to use addon to any application,
 
-{% highlight js linenos %}
+{% highlight js %}
 var sketchpad = new Sketchpad({
   element: '#sketchpad',
   width: 400,
