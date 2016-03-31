@@ -9,8 +9,6 @@ I'm Jean Lucas, a young and passionate product manager and developer with
 experience helping startups building and validating their products from sketches
 to production. I love digital products, design, and development.
 
-I'm a digital nomad, at this moment based in Brazil and working as freelancer.
-
 ---
 
 Find me on:

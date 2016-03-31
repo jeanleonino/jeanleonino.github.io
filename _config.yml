@@ -1,18 +1,18 @@
 name: Jean Lucas
-description: Developer, nomad, brazilian
-meta_description: "Jean Lucas - jeanleonino - Brazilian nomad and developer"
+description: Brazilian developer
+meta_description: "Jean Lucas - jeanleonino - Brazilian developer"
 
 aboutPage: true
 
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 
 paginate: 20
 baseurl: /
 domain_name: 'http://jeanlucaslima.com'
-google_analytics: 'UA-XXXXXXXX-X'
+# google_analytics: 'UA-XXXXXXXX-X'
 disqus: false
-disqus_shortname: 'your-disqus-shortname'
+# disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://jeanlucas.com'
