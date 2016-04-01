@@ -8,7 +8,7 @@ Hello.
 I'm Jean Lucas, a young and passionate product manager and developer with
 experience helping startups building and validating their products from sketches
 to production. I love digital products, design, and development. You can
-download my full CV [here]({{ site.url }}/assets/CV-Jean-Lucas-en-US.pdf).
+download my full CV [here][https://github.com/jeanleonino/jeanleonino.github.io/raw/master/assets/CV-Jean-Lucas-en-US.pdf].
 
 ---
 
