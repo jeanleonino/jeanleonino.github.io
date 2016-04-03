@@ -188,8 +188,13 @@ li	{ list-style-type:circle; list-style-position:inside; }
 /* Line Height */
 #post-body, p { line-height:1.7; }
 
-b, strong { font-weight: 500;
-  color: #1E2025; }
+b, strong { 
+  font-weight: 500;
+  color: #d0d0d0;
+  background: #272b2d;
+  box-sizing: content-box;
+  padding: 0 5px;
+}
 em, i { font-style: italic; }
 
 #title {
