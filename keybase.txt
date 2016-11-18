@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jeanlucas
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jeanlucas.tech
+  * I am jeanlucas (https://keybase.io/jeanlucas) on keybase.
+  * I have a public key with fingerprint 89D3 F322 E5E8 16B7 D2CB  1467 FFB7 CC6E 5621 6FD4
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101e49d682273599f1efcedc1b490bfb175bb1cab595b52fe93f0c0a184203a76c60a",
+            "fingerprint": "89d3f322e5e816b7d2cb1467ffb7cc6e56216fd4",
+            "host": "keybase.io",
+            "key_id": "ffb7cc6e56216fd4",
+            "kid": "0101e49d682273599f1efcedc1b490bfb175bb1cab595b52fe93f0c0a184203a76c60a",
+            "uid": "c70b8892afd07dba4a6fb1cacccc1919",
+            "username": "jeanlucas"
+        },
+        "service": {
+            "hostname": "jeanlucas.tech",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1479475622,
+    "expire_in": 157680000,
+    "prev": "dbf1cd53926f9f801e67b881f41d97fa903a7827648a78fb35affcae0431f83f",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.58
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJbSFRBGF7TslYki+xqUeel1M3OnPssRlhIFJbQDQVpmZkzs57aztl2
+z1q6SFEYihUVEWQ3U7oSRSj2UllpJAlRhiFE93qQAikoCyuaI/USPTYvP/PP933z
+/R9/d2aqz5/yrehQccOjk0dSem83JXxli1LOJgXsmNVCMClspqOFRkwad0ObLVMI
+CiIQAVWgqRmSpMsqhAxQRqhJAFagiBkGuooxIAirUMWqxCiUmUhEBAxFEmWka0QT
+kRAQmGWHaSwas2yXyxrQlJksSVSlBtCwbkoEA0XTGcM6IRpVNQlozFQ4sdKJewxu
+DqM4LbAc3uOX0Ki9f+D/s+/EqBzRRWwYUELMFHUTIwVpzGMTfgAE0APGacxGWyhH
+b6LIjiQIigu1AYG3qyxCvWS9Uf6GFLiUVHJ6NOa4DnEi/K3SdaNBj+pWRz3sNopD
+v1VC2LJNniQnVNFY3HJsIQg4kriWJwsUHSo6D0MKCHR71IrRkOUhVF0zRH68b2gV
+lzQxA8RUZShpDDKDZ6XpfEDAFGBCnSHoRWBIuqYYvDIsq4gxgqioyIAZMhO8ubba
+DteWuU8U5ppxK2wjNxGjQu2dWxVpvhS/b9zYMd6K+fwTsv4sXueJ9JH0yI1j6Q1b
+0wqbN1wtMGcdPN82P7U960dgYE3Xiq8/r7Qtq+6xWrqHd+pZn1rXTnAnrSxp/NB2
+/Oa6e1+alkr9M8oP28XLS1f6f9x6lnNhwd2FGfd3gYPv6odHxhcXPpsufbozZUlt
+7rU50xpLimozzhUk8/KHHodBYURbVbO/6f3UyS8a+47VD2X3JM4NOnkbXz/tha17
+Wp+8nJOE3+eO7OtNf1vScjqce6lr8QXUXqNOvDiOdV6i/rK0bP/1wMe+zNLSor11
+B9YHt9EP8/aunh0dqJh5avjNw1jnGbv+csbR3aV15/tRXfvQ4L6myI7mQ/6fSX/P
+5wPlg5tePegY2v88P6fjF+QMRKs=
+=tWpF
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jeanlucas
+
+==================================================================
